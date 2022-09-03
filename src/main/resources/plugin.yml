@@ -1,0 +1,4 @@
+name: KrataPlugin
+version: '${project.version}'
+main: net.krataland.krataplugin.KrataPlugin
+api-version: 1.17
